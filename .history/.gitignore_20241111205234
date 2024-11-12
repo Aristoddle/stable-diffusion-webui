@@ -43,4 +43,3 @@ notification.mp3
 trace.json
 /sysinfo-????-??-??-??-??.json
 stable-diffusion-webui.code-workspace
-.gitignore
